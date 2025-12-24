@@ -1,8 +1,3 @@
-#💫 Hi👋,I'm Prince Sahani 👋 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Designer;Open+Source+Enthusiast" alt="Typing SVG" />
-</p>
 
 ---
 # 💫 Hi 👋, I'm rishu 
