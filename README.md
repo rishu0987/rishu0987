@@ -1,6 +1,6 @@
 
 ---
-# 💫 Hi 👋, I'm rishu 
+# 💫 Hi 👋, I'm Rishu 
 
 - 🔭 **I’m currently working on:** Nothing
 - 🌱 **I’m currently learning:** Reading JavaScript
